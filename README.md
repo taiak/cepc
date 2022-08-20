@@ -1,6 +1,12 @@
 # CEP CALCULATOR COINBASE
 CEP Calculator which use CEP class to fetch and process coin prices to print as formated string.
 
+# Installation
+
+~~~ruby
+gem install cepc_coinbase
+~~~
+
 # Usage Example
 
 ~~~ruby
